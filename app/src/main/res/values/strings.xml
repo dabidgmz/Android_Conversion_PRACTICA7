@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PRACTICA7</string>
+    <string name="ingrese_el_valor">Ingrese el valor</string>
+    <string name="convertir">Convertir</string>
 </resources>
