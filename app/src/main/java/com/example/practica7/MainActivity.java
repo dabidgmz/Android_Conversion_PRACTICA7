@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             textViewResult.setText("Celsius a Fahrenheit: " + fahrenheit.getValor() +
                     "\nCelsius a Kelvin: " + kelvin.getValor());
         } catch (NumberFormatException e) {
-            textViewResult.setText("Invalid input");
+            textViewResult.setText("Entrada no válida");
         }
     }
 }

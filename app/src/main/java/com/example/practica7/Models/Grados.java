@@ -20,5 +20,5 @@ public class Grados {
     public void setUnidad(String unidad) {
         this.unidad = unidad;
     }
-
 }
+
